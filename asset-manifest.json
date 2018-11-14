@@ -1,0 +1,14 @@
+{
+  "main.css": "/photo-capture/static/css/main.ecb4c046.chunk.css",
+  "main.js": "/photo-capture/static/js/main.0b6a7725.chunk.js",
+  "main.js.map": "/photo-capture/static/js/main.0b6a7725.chunk.js.map",
+  "static/js/1.6ac04053.chunk.js": "/photo-capture/static/js/1.6ac04053.chunk.js",
+  "static/js/1.6ac04053.chunk.js.map": "/photo-capture/static/js/1.6ac04053.chunk.js.map",
+  "runtime~main.js": "/photo-capture/static/js/runtime~main.bbef5e50.js",
+  "runtime~main.js.map": "/photo-capture/static/js/runtime~main.bbef5e50.js.map",
+  "static/media/logo.svg": "/photo-capture/static/media/logo.5d5d9eef.svg",
+  "static/css/main.ecb4c046.chunk.css.map": "/photo-capture/static/css/main.ecb4c046.chunk.css.map",
+  "index.html": "/photo-capture/index.html",
+  "precache-manifest.c595d36cbb57ca5c1f1516f78b359529.js": "/photo-capture/precache-manifest.c595d36cbb57ca5c1f1516f78b359529.js",
+  "service-worker.js": "/photo-capture/service-worker.js"
+}
